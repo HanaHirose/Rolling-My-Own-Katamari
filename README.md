@@ -5,7 +5,7 @@
 
 ## Development
 - Duration: 1 month
-- Developer: Developed by one person
+- Developer: Hana Hirose
 
 ## Features
 - Scoring System: Increase the size of the Katamari by collecting various objects
@@ -22,6 +22,7 @@
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=lHmjuDRE86A).
 
 ## Technologies Used
+- Blender 3.5
 - Unity 2021.3.24f1
 - C#
 
